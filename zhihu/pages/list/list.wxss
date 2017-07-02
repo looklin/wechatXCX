@@ -4,7 +4,6 @@
   padding-left: 8px;
   padding-right: 8px;
 }
-
 .news-item {
   display: flex;
   flex-direction: row;
